@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Mastermind.Controllers.JeuController",
+    "Method": "CreerPartie",
+    "RelativePath": "api/jeu",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Mastermind.DTOs.ReponseCreationPartie",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
