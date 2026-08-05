@@ -1,6 +1,6 @@
-﻿namespace Mastermind.Models
+﻿namespace Mastermind.Mastermind.Api.DTOs
 {
-    public class Tentative
+    public class TentativeHistorique
     {
         public List<int> Proposition { get; set; } = new();
 

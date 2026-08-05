@@ -1,6 +1,6 @@
-﻿using Mastermind.Models;
+﻿using Mastermind.Mastermind.Api.Models;
 
-namespace Mastermind.Services
+namespace Mastermind.Mastermind.Api.Services
 {
     public class MastermindService
     {

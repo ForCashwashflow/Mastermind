@@ -1,4 +1,4 @@
-﻿namespace Mastermind.DTOs
+﻿namespace Mastermind.Mastermind.Api.DTOs
 {
     public class RequeteTentative
     {

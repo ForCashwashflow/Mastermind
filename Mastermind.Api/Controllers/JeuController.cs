@@ -1,8 +1,9 @@
 ﻿using Mastermind.DTOs;
-using Mastermind.Services;
+using Mastermind.Mastermind.Api.DTOs;
+using Mastermind.Mastermind.Api.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Mastermind.Controllers
+namespace Mastermind.Mastermind.Api.Controllers
 {
     [ApiController]
     [Route("api/jeu")]

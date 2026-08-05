@@ -1,4 +1,4 @@
-﻿namespace Mastermind.Models
+﻿namespace Mastermind.Mastermind.Api.Models
 {
     public enum EtatJeu
     {

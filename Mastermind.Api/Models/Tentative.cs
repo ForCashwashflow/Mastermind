@@ -1,6 +1,6 @@
-﻿namespace Mastermind.DTOs
+﻿namespace Mastermind.Mastermind.Api.Models
 {
-    public class TentativeHistorique
+    public class Tentative
     {
         public List<int> Proposition { get; set; } = new();
 
@@ -8,4 +8,4 @@
 
         public int MalPlaces { get; set; }
     }
-}
+}gg

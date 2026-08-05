@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\simoj\\Documents\\Mastermind\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4801D9B-BA0C-DFF0-DBCD-B92807E4F89C}|Mastermind.csproj|c:\\users\\simoj\\documents\\mastermind\\models\\tentative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4801D9B-BA0C-DFF0-DBCD-B92807E4F89C}|Mastermind.csproj|solutionrelative:models\\tentative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4801D9B-BA0C-DFF0-DBCD-B92807E4F89C}|Mastermind.csproj|c:\\users\\simoj\\documents\\mastermind\\mastermind.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{B4801D9B-BA0C-DFF0-DBCD-B92807E4F89C}|Mastermind.csproj|solutionrelative:mastermind.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4801D9B-BA0C-DFF0-DBCD-B92807E4F89C}|Mastermind.csproj|c:\\users\\simoj\\documents\\mastermind\\services\\mastermindservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4801D9B-BA0C-DFF0-DBCD-B92807E4F89C}|Mastermind.csproj|solutionrelative:services\\mastermindservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4801D9B-BA0C-DFF0-DBCD-B92807E4F89C}|Mastermind.csproj|c:\\users\\simoj\\documents\\mastermind\\models\\tentative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4801D9B-BA0C-DFF0-DBCD-B92807E4F89C}|Mastermind.csproj|solutionrelative:models\\tentative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4801D9B-BA0C-DFF0-DBCD-B92807E4F89C}|Mastermind.csproj|c:\\users\\simoj\\documents\\mastermind\\models\\partie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "JeuController.cs",
               "DocumentMoniker": "C:\\Users\\simoj\\Documents\\Mastermind\\Controllers\\JeuController.cs",
               "RelativeDocumentMoniker": "Controllers\\JeuController.cs",
@@ -78,8 +78,7 @@
               "RelativeToolTip": "Controllers\\JeuController.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAQwFcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T23:30:03.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T23:30:03.323Z"
             },
             {
               "$type": "Document",
@@ -91,8 +90,7 @@
               "RelativeToolTip": "Models\\EtatJeu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T23:20:42.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T23:20:42.483Z"
             },
             {
               "$type": "Document",
@@ -104,25 +102,24 @@
               "RelativeToolTip": "Models\\Partie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T23:20:41.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T23:20:41.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Tentative.cs",
               "DocumentMoniker": "C:\\Users\\simoj\\Documents\\Mastermind\\Models\\Tentative.cs",
               "RelativeDocumentMoniker": "Models\\Tentative.cs",
               "ToolTip": "C:\\Users\\simoj\\Documents\\Mastermind\\Models\\Tentative.cs",
               "RelativeToolTip": "Models\\Tentative.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-03T23:20:43.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\simoj\\Documents\\Mastermind\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -130,12 +127,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T23:20:36.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T23:20:36.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Mastermind.http",
               "DocumentMoniker": "C:\\Users\\simoj\\Documents\\Mastermind\\Mastermind.http",
               "RelativeDocumentMoniker": "Mastermind.http",
@@ -156,8 +152,7 @@
               "RelativeToolTip": "DTOs\\ReponseCreationPartie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T23:29:54.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T23:29:54.282Z"
             },
             {
               "$type": "Document",
@@ -169,12 +164,11 @@
               "RelativeToolTip": "DTOs\\ReponseTentative.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T23:29:53.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T23:29:53.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MastermindService.cs",
               "DocumentMoniker": "C:\\Users\\simoj\\Documents\\Mastermind\\Services\\MastermindService.cs",
               "RelativeDocumentMoniker": "Services\\MastermindService.cs",
@@ -182,8 +176,7 @@
               "RelativeToolTip": "Services\\MastermindService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T23:20:44.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T23:20:44.683Z"
             },
             {
               "$type": "Document",
@@ -195,8 +188,7 @@
               "RelativeToolTip": "DTOs\\RequeteTentative.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T23:29:52.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T23:29:52.514Z"
             },
             {
               "$type": "Document",
@@ -208,8 +200,7 @@
               "RelativeToolTip": "DTOs\\TentativeHistorique.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T23:29:51.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T23:29:51.429Z"
             },
             {
               "$type": "Document",
