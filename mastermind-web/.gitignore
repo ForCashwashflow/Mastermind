@@ -1,24 +1,32 @@
-# Nuxt dev/build outputs
-.output
-.data
-.nuxt
-.nitro
-.cache
-dist
+# Visual Studio
+.vs/
+*.user
+*.suo
 
-# Node dependencies
-node_modules
+# Build .NET
+**/bin/
+**/obj/
+
+# Nuxt
+mastermind-web/node_modules/
+mastermind-web/.nuxt/
+mastermind-web/.output/
 
 # Logs
-logs
 *.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
 
-# Misc
+# OS
 .DS_Store
-.fleet
-.idea
+Thumbs.db
 
 # Local env files
 .env
 .env.*
 !.env.example
+.vscode/
+.nuxt/
+node_modules/
+.output/
