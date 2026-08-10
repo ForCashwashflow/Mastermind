@@ -8,4 +8,4 @@
 
         public int MalPlaces { get; set; }
     }
-}gg
+}
