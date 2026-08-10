@@ -1,5 +1,6 @@
 # Visual Studio
 .vs/
+**/.vs/
 *.user
 *.suo
 
@@ -9,9 +10,18 @@ obj/
 **/bin/
 **/obj/
 
-# Nuxt
+# Nuxt / Node
 **/node_modules/
 **/.nuxt/
 **/.output/
+
+# VS Code
 **/.vscode/
-*.user
+
+# Logs
+*.log
+npm-debug.log*
+
+# Système
+.DS_Store
+Thumbs.db
