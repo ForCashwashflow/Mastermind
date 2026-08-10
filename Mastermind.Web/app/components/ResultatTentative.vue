@@ -16,3 +16,16 @@ defineProps<{
     <p>État : {{ resultat.etat }}</p>
   </section>
 </template>
+
+<style scoped>
+section {
+  margin-top: 28px;
+  padding: 20px;
+  border-radius: 12px;
+  background: #f7f7f7;
+}
+
+p {
+  margin: 8px 0;
+}
+</style>

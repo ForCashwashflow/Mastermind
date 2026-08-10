@@ -25,3 +25,21 @@ defineProps<{
     </div>
   </section>
 </template>
+
+<style scoped>
+section {
+  margin-top: 28px;
+}
+
+div {
+  padding: 14px 0;
+}
+
+strong {
+  font-size: 17px;
+}
+
+p {
+  margin: 6px 0;
+}
+</style>
